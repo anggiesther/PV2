@@ -1,0 +1,8 @@
+E:\SEMESTER 4\pv2\Tugas_PV2\Tugas_PV2\obj\Debug\Tugas_PV2.csprojResolveAssemblyReference.cache
+E:\SEMESTER 4\pv2\Tugas_PV2\Tugas_PV2\obj\Debug\Tugas_PV2.MainForm.resources
+E:\SEMESTER 4\pv2\Tugas_PV2\Tugas_PV2\obj\Debug\Tugas_PV2.csproj.GenerateResource.Cache
+E:\SEMESTER 4\pv2\Tugas_PV2\Tugas_PV2\bin\Debug\Tugas_PV2.exe.config
+E:\SEMESTER 4\pv2\Tugas_PV2\Tugas_PV2\bin\Debug\Tugas_PV2.exe
+E:\SEMESTER 4\pv2\Tugas_PV2\Tugas_PV2\bin\Debug\Tugas_PV2.pdb
+E:\SEMESTER 4\pv2\Tugas_PV2\Tugas_PV2\obj\Debug\Tugas_PV2.exe
+E:\SEMESTER 4\pv2\Tugas_PV2\Tugas_PV2\obj\Debug\Tugas_PV2.pdb
